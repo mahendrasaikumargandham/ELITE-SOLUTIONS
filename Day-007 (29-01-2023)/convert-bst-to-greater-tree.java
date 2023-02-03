@@ -28,6 +28,7 @@ class Solution {
     public TreeNode convertBST(TreeNode root) {
         Solution instance = new Solution();
         instance.greaterRoot(root);
+        
         return root;
     }
 }
