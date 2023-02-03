@@ -28,7 +28,7 @@ class Solution {
     public TreeNode bstToGst(TreeNode root) {
         if(root == null)
             return null;
-        
+
         change(root);
         return root;
     }
