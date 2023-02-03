@@ -45,3 +45,61 @@
 <ul>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-005%20(27-01-2023)/BinaryTreeZigzagLevelOrderTraversal.java">Binary Tree Zigzag Level Order Traversal</a></li>
 </ul>
+
+
+<h2>Day 6</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-006%20(28-01-2023)/BinarySearchTreetoGreaterSumTree.java">Binary Search Tree to Greater Sum Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-006%20(28-01-2023)/IncreasingOrderSearchTree.java">Increasing Order Search Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-006%20(28-01-2023)/InsertIntoABinarySearchTree.java">Insert Into A Binary Search Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-006%20(28-01-2023)/SearchinaBinarySearchTree.java">Search in a Binary Search Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-006%20(28-01-2023)/TwoSumIV-InputisaBST.java">Two Sum IV - Input is a BST</a></li>
+</ul>
+
+
+<h2>Day 7</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-007%20(29-01-2023)/convert-bst-to-greater-tree.java">Convert BST to Greater Tree</a></li>
+</ul>
+
+
+<h2>Day 8</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-008%20(30-01-2023)/construct-binary-search-tree-from-preorder-traversal.java">Construct Binary Search Tree from Preorder Traversal</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-008%20(30-01-2023)/delete-node-in-a-bst.java">Delete Node in a BST</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-008%20(30-01-2023)/kth-smallest-element-in-a-bst.java">Kth Smallest Element in a BST</a></li>
+</ul>
+
+<h2>Day 9</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-009%20(31-01-2023)/convert-sorted-array-to-binary-search-tree.java">Convert Sorted Array to Binary Search Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-009%20(31-01-2023)/convert-sorted-list-to-binary-search-tree.java">Convert Sorted List to Binary Search Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-009%20(31-01-2023)/find-mode-in-binary-search-tree.java">Find Mode in Binary Search Tree</a></li>
+</ul>
+
+
+<h2>Day 10</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-010%20(01-02-2023)/all-elements-in-two-binary-search-trees.java">All Elements in Two Binary Search Trees</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-010%20(01-02-2023)/balance-a-binary-search-tree.java">Balance a Binary Search Tree</a></li>
+</ul>
+
+
+<h2>Day 11</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-011%20(02-02-2023)/Recover-binary-search-tree.java">Recover Binary Search Tree</a></li>
+</ul>
+
+
+
+<h2>Day 12</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Bottom-view-of-a-binaryTree.java">Bottom View of a Binary Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Flatten-Binary-Tree-to-LinkedList.java">Flatten Binary Tree to LinkedList</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/LCA-of-2-Nodes-in-a-BST.java">LCA of Two Nodes in a BST</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Left-View-of-a-binaryTree.java">Left View of a Binary Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Level-Order-Traversal.java">Level Order Traversal of Binary Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Minimum-Depth-of-a-BinaryTree.java">Minimum Depth of a Binary Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Right-View-of-a-BinaryTree.java">Right View of a Binary Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Top-view-of-a-binaryTree.java">Top View of a Binary Tree</a></li>
+</ul>
