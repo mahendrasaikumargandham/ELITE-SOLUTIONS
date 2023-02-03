@@ -20,9 +20,9 @@ class Solution {
         if(root == null)
             return;
         
-        traversal(root.left, arr);
+        traversal(root.left,arr);
         arr.add(root.val);
-        traversal(root.right, arr);
+        traversal(root.right,arr);
     }
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> arr = new ArrayList<>();
