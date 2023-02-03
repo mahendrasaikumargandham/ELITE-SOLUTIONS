@@ -12,7 +12,7 @@ class Solution {
             }
 
             set.add(ch);
-            len = Math.max(len, i-j+1);
+            len = Math.max(len,i-j+1);
         }
         return len;
     }
