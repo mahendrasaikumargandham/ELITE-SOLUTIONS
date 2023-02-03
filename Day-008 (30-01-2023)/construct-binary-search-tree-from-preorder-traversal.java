@@ -30,6 +30,7 @@ class Solution {
     
     public TreeNode bstFromPreorder(int[] preorder) {
         int upper = Integer.MAX_VALUE;
+     
         return construct(preorder, upper, new int[]{0});
     }
 }
