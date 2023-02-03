@@ -28,6 +28,7 @@ class Solution {
         inorder(root1);
         inorder(root2);
         Collections.sort(arr);
+        
         return arr;
     }
 }
