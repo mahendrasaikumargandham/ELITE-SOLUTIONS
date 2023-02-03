@@ -24,6 +24,7 @@ class Solution {
         boolean isForward = true;
 
         queue.offer(root);
+        
         while(!queue.isEmpty()) {
             List<Integer> arr = new ArrayList<>();
             int size = queue.size();
