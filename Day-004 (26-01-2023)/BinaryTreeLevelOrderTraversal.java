@@ -9,6 +9,7 @@ class Solution {
         traverse(root.left, list, level+1);
         traverse(root.right, list, level+1);
     }
+    
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> list = new ArrayList<>();
         if(root == null)
