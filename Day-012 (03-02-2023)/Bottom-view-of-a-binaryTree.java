@@ -46,6 +46,7 @@ public class Solution {
             if(temp.root.right != null)
                 queue.offer(new TreeNode(temp.offset+1, temp.root.right));
         } 
+        
         for(Map.Entry<Integer, Integer> entry: map.entrySet())
             arr.add(entry.getValue());
 
