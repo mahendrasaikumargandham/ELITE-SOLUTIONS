@@ -102,5 +102,11 @@
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Minimum-Depth-of-a-BinaryTree.java">Minimum Depth of a Binary Tree</a></li>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Right-View-of-a-BinaryTree.java">Right View of a Binary Tree</a></li>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Top-view-of-a-binaryTree.java">Top View of a Binary Tree</a></li>
-  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Trim-a-Binary-Seach-Tree.java">Trime a Binary Search Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-012%20(03-02-2023)/Trim-a-Binary-Seach-Tree.java">Trim a Binary Search Tree</a></li>
+</ul>
+
+
+<h2>Day 13</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-013%20(04-03-2023)/ZigZagTreeTraversal.java">Zig Zag Tree Traversal in Code Studio</a></li>
 </ul>
