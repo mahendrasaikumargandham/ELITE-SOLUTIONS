@@ -111,3 +111,9 @@
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-013%20(04-03-2023)/ZigZagTreeTraversal.java">Zig Zag Tree Traversal in Code Studio</a></li>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-013%20(04-03-2023)/Modify-BST.java">Modify BST in Code Studio</a></li>
 </ul>
+
+<h2>Day 14</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-014%20(05-02-2023)/Average-of-Levels-in-BinaryTree.java">Average of Levels in Binary Tree</a></li>
+</ul>
+
