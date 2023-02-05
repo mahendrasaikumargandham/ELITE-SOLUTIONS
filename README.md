@@ -115,5 +115,7 @@
 <h2>Day 14</h2>
 <ul>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-014%20(05-02-2023)/Average-of-Levels-in-BinaryTree.java">Average of Levels in Binary Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-014%20(05-02-2023)/FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.java">Find a Corresponding Node of a Binary Tree in a Clone of That Tree</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-014%20(05-02-2023)/SumofRootToLeafBinaryNumbers.java">Sum of Root To Leaf Binary Numbers</a></li>
 </ul>
 
