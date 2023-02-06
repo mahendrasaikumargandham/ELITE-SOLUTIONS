@@ -122,7 +122,8 @@
 
 <h2>Day 15</h2>
 <ul>
-  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-015%20(06-02-2023)/DFS-Traversal-Graph.java">DFS traversal of a Graph</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-015%20(06-02-2023)/DFS-Traversal-Graph.java">DFS Traversal of a Graph</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-015%20(06-02-2023)/BFS-Traversal-Graph.java">BFS Traversal of a Graph</a></li>
 </ul>
 
 
