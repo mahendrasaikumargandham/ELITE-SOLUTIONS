@@ -126,4 +126,7 @@
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-015%20(06-02-2023)/BFS-Traversal-Graph.java">BFS Traversal of a Graph</a></li>
 </ul>
 
-
+<h2>Day 16</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-016%20(07-02-2023)/Number-of-Islands.java">Number of Islands</a></li>
+</ul>
