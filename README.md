@@ -136,4 +136,5 @@
 <ul>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-017%20(08-02-2023)/BFS-of-Graph-GeeksForGeeks.java">BFS of a Graph in GeeksForGeeks(Strivers)</li>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-017%20(08-02-2023)/DFS-of-Graph-GeeksforGeeks.java">DFS of a Graph in GeeksForGeeks(Strivers)</li>
+    <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-017%20(08-02-2023)/Is-Graph-Bipartite.java">Is Graph BiPartite?</a></li>
 </ul>
