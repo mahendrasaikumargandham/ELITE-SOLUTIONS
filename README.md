@@ -139,3 +139,9 @@
     <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-017%20(08-02-2023)/Is-Graph-Bipartite.java">Is Graph BiPartite?</a></li>
     <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-017%20(08-02-2023)/Keys-and-Rooms.java">Keys and Rooms</a></li>
 </ul>
+
+
+<h2>Day 18</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-018%20(09-02-2023)/Minimum-Time-for-Spoiling.java">Minimum Time for Spoiling</a></li>
+</ul>
