@@ -146,3 +146,8 @@
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-018%20(09-02-2023)/Minimum-Time-for-Spoiling.java">Minimum Time for Spoiling</a></li>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-018%20(09-02-2023)/Count-Islands-HackerRank.java">Count Islands in HackerRank</a></li>
 </ul>
+
+<h2>Day 19</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-019%20(10-02-2023)/RottingOranges.java">Rotting Oranges</a></li>
+</ul>
