@@ -160,3 +160,9 @@
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-020%20(11-02-2023)/01-Matrix.java">01 Matrix</a></li>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-020%20(11-02-2023)/String-reversal-with-same-special-Characters.java">String Reversal with Same Special Characters</a></li>
 </ul>
+
+
+<h2>Day 21</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-021%20(12-02-2023)/No-of-Provinces.java">Number of Provinces</a></li>
+</ul>
