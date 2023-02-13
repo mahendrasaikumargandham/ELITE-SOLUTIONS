@@ -166,3 +166,8 @@
 <ul>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-021%20(12-02-2023)/No-of-Provinces.java">Number of Provinces</a></li>
 </ul>
+
+<h2>Day 22</h2>
+<ul>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-022%20(13-02-2023)/Find-Center-of-a-Star-Graph.java">Find Center of a Star Graph</li>
+</ul>
