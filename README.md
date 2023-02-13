@@ -170,5 +170,5 @@
 <h2>Day 22</h2>
 <ul>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-022%20(13-02-2023)/Find-Center-of-a-Star-Graph.java">Find Center of a Star Graph</li>
-  <li><a herf = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-022%20(13-02-2023)/All-Paths-from-Source-To-Traget.java">All Paths from Source to Target</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-022%20(13-02-2023)/All-Paths-from-Source-To-Traget.java">All Paths from Source to Target</a></li>
 </ul>
