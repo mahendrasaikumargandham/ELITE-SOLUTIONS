@@ -177,4 +177,5 @@
 <h2>Day 23</h2>
 <ul>
   <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-023%20(14-02-2023)/FindLargestValueinEachTreeRow.java">Find Largest Value in Each Tree Row</a></li>
+  <li><a href = "https://github.com/mahendrasaikumargandham/ELITE-SOLUTIONS/blob/main/Day-023%20(14-02-2023)/SecondMinNodeinaBinaryTree.java">Second minimum node in a Binary Tree</a></li>
 </ul>
